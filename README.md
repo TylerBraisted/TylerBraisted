@@ -12,4 +12,5 @@
   - 
 - <b>AI-Powered Voice-to-Text Morse Code Translator</b>
   - 
-
+- <b>Data Science Projects</b>
+  - 
