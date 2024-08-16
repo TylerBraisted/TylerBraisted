@@ -5,7 +5,7 @@
 
 
 - <b>Algorithms & Data Structure Practice</b>
-  - 
+  - [Python Practice with Algorithms and Data Structures](https://github.com/TylerBraisted/AlgorithmsPractice.git)
 - <b>Mini Projects</b>
   - 
 - <b>Java Projects</b>
