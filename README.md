@@ -10,10 +10,11 @@
   -  [Alarm Clock Application](https://github.com/TylerBraisted/AlarmClockProject.git)
 - <b>Java Projects</b>
   -
-- <b>App Devlopements</b>
-  -  [FanFeed](https://github.com/TylerBraisted/Fanfeed.git)
 - <b>AI-Powered Voice-to-Text Morse Code Translator</b>
   - d
 
 - <b>Data Science Projects</b>
   - [Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics](https://github.com/TylerBraisted/Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics.git)
+
+<h3>App Devlopements:</h3>
+-  [FanFeed](https://github.com/TylerBraisted/Fanfeed.git)
