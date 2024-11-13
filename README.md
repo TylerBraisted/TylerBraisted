@@ -8,8 +8,6 @@
   - [Python Practice with Algorithms and Data Structures](https://github.com/TylerBraisted/AlgorithmsPractice.git)
 - <b>Mini Projects</b>
   -  [Alarm Clock Application](https://github.com/TylerBraisted/AlarmClockProject.git)
-- <b>Java Projects</b>
-  -
 - <b>App Devlopements</b>
   -  [FanFeed](https://github.com/TylerBraisted/Fanfeed.git)
 - <b>AI-Powered Voice-to-Text Morse Code Translator</b>
