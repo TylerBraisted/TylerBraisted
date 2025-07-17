@@ -10,7 +10,9 @@
   - [Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics](https://github.com/TylerBraisted/Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics.git)
 
 <h2>🧠 AI & Machine Learning Projects:</h2>
+
 - <b>AI-Powered Voice-to-Text Morse Code Translator</b>
+
 - <b> [Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics](https://github.com/TylerBraisted/Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics.git)</b>
 
 
