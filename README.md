@@ -21,5 +21,5 @@
 
 <h2>📱 Mobile App Projects:</h2>
 
-- [ShareSpace](https://github.com/TylerBraisted/Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics.git)
+- [FanFeed](https://github.com/TylerBraisted/FanFeed.git)
 
