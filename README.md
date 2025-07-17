@@ -4,14 +4,13 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-- <b>Algorithms & Data Structure Practice</b>
-  - [Python Practice with Algorithms and Data Structures](https://github.com/TylerBraisted/AlgorithmsPractice.git)
-- <b>Mini Projects</b>
-  -  [Alarm Clock Application](https://github.com/TylerBraisted/AlarmClockProject.git)
-- <b>App Devlopements</b>
-  -  [FanFeed](https://github.com/TylerBraisted/Fanfeed.git)
-- <b>AI-Powered Voice-to-Text Morse Code Translator</b>
-  - d
+
 
 - <b>Data Science Projects</b>
   - [Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics](https://github.com/TylerBraisted/Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics.git)
+
+<h2=3>🧠 AI & Machine Learning Projects:</h3>
+- <b>AI-Powered Voice-to-Text Morse Code Translator</b>
+- <b> [Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics](https://github.com/TylerBraisted/Analyzing-NBA-Salaries-in-Relation-to-On-Court-Metrics.git)</b>
+
+
